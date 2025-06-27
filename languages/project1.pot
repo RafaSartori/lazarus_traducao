@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.button1.caption
+msgctxt "tform1.button1.caption"
+msgid "Button1"
+msgstr ""
+
+#: tform1.button2.caption
+msgid "Button2"
+msgstr ""
+
+#: tform1.caption
+msgid "Form1"
+msgstr ""
+
+#: tform2.button1.caption
+msgctxt "tform2.button1.caption"
+msgid "Button1"
+msgstr ""
+
+#: tform2.caption
+msgid "Form2"
+msgstr ""
+
